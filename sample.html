@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+    <style>
+        #chat {
+          height: 600px;
+          width: 100%;
+        }
+      </style>
+    <title>Hello World!</title>
+</head>
+
+<body>
+    <div id="chat">
+        
+    </div>
+    <script>
+        window.watsonAssistantChatOptions = {
+            integrationID: "62e2bd5b-a1fd-43c1-97c4-6c95f77f1361", // The ID of this integration.
+            region: "us-south", // The region your integration is hosted in.
+            serviceInstanceID: "04297262-ad33-412d-8efc-b7764127f10a", // The ID of your service instance.
+            onLoad: function (instance) { instance.render(); },
+            element: document.getElementById("chat"),
+            hideCloseButton: true,
+            openChatByDefault: true,
+            showLauncher: false
+        };
+        setTimeout(function () {
+            const t = document.createElement('script');
+            t.src = "https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
+            document.head.appendChild(t);
+        });
+    </script>
+</body>
+
+</html>
