@@ -9,8 +9,10 @@
   "author": "Murilo Bizin",
   "license": "ISC",
   "dependencies": {
+    "@google-cloud/speech": "^4.0.0",
+    "axios": "^0.19.2",
+    "cloudant": "^1.10.0-NOTICE",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
     "ibm-watson": "^5.6.0",
     "twilio": "^3.46.0"
   }
