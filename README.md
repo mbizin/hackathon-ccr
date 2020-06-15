@@ -25,6 +25,10 @@ Quanto mais caminhoneiros interagindo com a Léia, mais rápido ela aprende e co
 
 ## Arquitetura
 
+![Demo WhatsApp](/assets/demo-twilio..jpeg)
+
+## Arquitetura
+
 ![Diagrama de Arquitetura](/assets/arq-leia.png)
 
 
