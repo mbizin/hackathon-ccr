@@ -23,7 +23,9 @@ Quanto mais caminhoneiros interagindo com a Léia, mais rápido ela aprende e co
 ## Pitch
 [![LÉIA - ASSISTENTE RODOVIÁRIA DE INFORMAÇÃO E APRENDIZADO](https://youtu.be/Fy0QTwfRKpo/0.jpg)](https://youtu.be/Fy0QTwfRKpo)
 
-## Arquitetura
+## Demo WhatsApp
+
+O QRCode abaixo te te direciona para a SandBox do Twilio com a palavra passe para testar nosso demo
 
 ![Demo WhatsApp](/assets/demo-twilio.jpeg)
 
