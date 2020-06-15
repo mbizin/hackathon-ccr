@@ -25,7 +25,7 @@ Quanto mais caminhoneiros interagindo com a Léia, mais rápido ela aprende e co
 
 ## Demo WhatsApp
 
-O QRCode abaixo te te direciona para a SandBox do Twilio com a palavra passe para testar nosso demo
+O QRCode abaixo te direciona para a SandBox do Twilio com a palavra passe para testar nossa demo
 
 ![Demo WhatsApp](/assets/demo-twilio.jpeg)
 
