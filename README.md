@@ -22,7 +22,7 @@ Quanto mais caminhoneiros interagindo com a Léia, mais rápido ela aprende e co
 
 ## Pitch
 
-[![LÉIA - ASSISTENTE RODOVIÁRIA DE INFORMAÇÃO E APRENDIZADO](https://youtu.be/dIuOZ8MtSkk/0.jpg)]https://youtu.be/dIuOZ8MtSkk)
+[![LÉIA - ASSISTENTE RODOVIÁRIA DE INFORMAÇÃO E APRENDIZADO](https://youtu.be/dIuOZ8MtSkk/0.jpg)](https://youtu.be/dIuOZ8MtSkk)
 
 ![Diagrama de Arquitetura](/assets/arq-leia.png)
 
