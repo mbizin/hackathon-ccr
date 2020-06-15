@@ -2,9 +2,11 @@
 
 ## Autores
 
-- [Amanda Coelho](https://www.linkedin.com/in/amanda-coelho-69737151/) - Icaro Tech
-- [Grazielli Merchiolli](https://www.linkedin.com/in/grazimerchiolli/) - Icaro Tech
+- [Bárbara Vignolo Chambon](https://www.linkedin.com/in/barbarachambon/) - Webliv
+- [Felipe Gallinari](https://www.linkedin.com/in/felipegallinari/) - Icaro Tech
+- [Leandro Job Neto](https://www.linkedin.com/in/leandrojob/) - Exactaworks
 - [Murilo Bizin](https://www.linkedin.com/in/murilobizin/) - Icaro Tech
+
 
 ## Descrição
 
@@ -21,3 +23,10 @@ Quanto mais caminhoneiros interagindo com a Léia, mais rápido ela aprende e co
 ## Pitch
 
 [![LÉIA - ASSISTENTE RODOVIÁRIA DE INFORMAÇÃO E APRENDIZADO](https://youtu.be/dIuOZ8MtSkk/0.jpg)]https://youtu.be/dIuOZ8MtSkk)
+
+![Diagrama de Arquitetura](/assets/arq-leia.png)
+
+
+## Licença
+
+This solution starter is made available under the [GNU General Public License](LICENSE).
