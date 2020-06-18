@@ -21,7 +21,7 @@ Quando estabelecimentos firmarem uma parceria, novas informações de promoçõe
 Quanto mais caminhoneiros interagindo com a Léia, mais rápido ela aprende e consolida uma base de perfis para gerar novos insights sobre comportamento e hábitos de consumo que podem ser compartilhados com nossos parceiros. Assim, todos saem ganhando, pois informação é a moeda do futuro e é uma de nossas formas de monetização.
 
 ## Pitch
-[![LÉIA - ASSISTENTE RODOVIÁRIA DE INFORMAÇÃO E APRENDIZADO](https://youtu.be/bWBaFq9Nod4/0.jpg)](https://youtu.be/bWBaFq9Nod4)
+[![LÉIA - ASSISTENTE RODOVIÁRIA DE INFORMAÇÃO E APRENDIZADO](https://img.youtube.com/vi/bWBaFq9Nod4/0.jpg)](https://youtu.be/bWBaFq9Nod4)
 
 ## Demo WhatsApp
 
